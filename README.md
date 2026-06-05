@@ -14,7 +14,7 @@ I am also actively working with **AI-assisted development, LLM integrations, Cla
 
 ## 📫 Connect with Me
 
-📧 **Email:** giorgi.jangveladze1@gmail.com 
+📧 **Email:** giorgi.jangveladze1@gmail.com   
 📍 **Location:** Tbilisi, Georgia  
 💼 **LinkedIn:** [https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/giorgi-jangveladze-682a98165/)  
 
