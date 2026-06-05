@@ -3,10 +3,7 @@
 🚀 **Senior Full-Stack Software Engineer | Backend-Heavy PHP/Laravel Developer | React.js**
 
 I like solving practical problems, improving systems and experimenting with tools that turn ideas into working products.
-
 Most of my work is around **Laravel**, **React.js**, backend architecture and AI-powered development workflows.
-
-Blah blah blah, all the usual developer stuff, but come on, I have **9+ years in this industry**, I am here to make money, and I know how to build good software. And when I say good, I mean **damn good** — probably better than you think.
 
 ---
 
