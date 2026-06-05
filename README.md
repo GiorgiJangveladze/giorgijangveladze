@@ -2,13 +2,11 @@
 
 🚀 **Senior Full-Stack Software Engineer | Backend-Heavy PHP/Laravel Developer | React.js**
 
-I am a Senior Full-Stack Software Engineer with **8+ years of commercial experience** building scalable, secure and maintainable web applications for international clients and product teams.
+I like solving practical problems, improving systems and experimenting with tools that turn ideas into working products.
 
-My core expertise is in **PHP, Laravel, React.js, Vue.js, JavaScript, MySQL and PostgreSQL**, with strong experience in backend architecture, API development, database optimisation, third-party integrations and cloud-based systems.
+Most of my work is around **Laravel**, **React.js**, backend architecture and AI-powered development workflows.
 
-I have worked across industries including **SaaS, iGaming, EdTech, automotive platforms, e-commerce, gaming and internal enterprise systems**, contributing as both a hands-on engineer and technical lead. I enjoy building clean codebases, improving performance, mentoring developers and helping teams deliver reliable products faster.
-
-I am also actively working with **AI-assisted development, LLM integrations, Claude Code workflows, ComfyUI, LoRA training and checkpoint-based models**, combining traditional software engineering with modern AI-driven development practices.
+Blah blah blah, all the usual developer stuff, but come on, I have **9+ years in this industry**, I am here to make money, and I know how to build good software. And when I say good, I mean **damn good** — probably better than you think.
 
 ---
 
@@ -22,16 +20,43 @@ I am also actively working with **AI-assisted development, LLM integrations, Cla
 
 ## 🛠️ Tech Stack
 
-| Category | Technologies |
-|---|---|
-| **Backend** | PHP, Laravel, Ruby, REST APIs, API Integrations, OOP, SOLID, MVC, Repository Pattern |
-| **Frontend** | React.js, Vue.js, JavaScript, TypeScript, HTML5, CSS3, Bootstrap, jQuery |
-| **Databases** | MySQL, PostgreSQL, SQLite |
-| **Search & Performance** | ElasticSearch, database optimisation, caching, performance tuning |
-| **Cloud & DevOps** | Docker, Linux, AWS, Azure, CI/CD, Git, GitHub |
-| **Testing & Quality** | TDD, code reviews, debugging, troubleshooting, technical documentation |
-| **AI & Automation** | LLM integrations, Claude Code, AI-assisted development, ComfyUI, LoRA training, checkpoint-based models |
-| **Ways of Working** | Agile, Scrum, Kanban, Scrumban, technical leadership, mentoring, distributed teams |
+### Backend
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge&logo=fastapi&logoColor=white)
+![OOP](https://img.shields.io/badge/OOP-333333?style=for-the-badge)
+![SOLID](https://img.shields.io/badge/SOLID-333333?style=for-the-badge)
+
+### Frontend
+![React.js](https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### Databases & Search
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+![ElasticSearch](https://img.shields.io/badge/ElasticSearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
+
+### Cloud, DevOps & Tools
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=000000)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+
+### AI & Automation
+![Claude Code](https://img.shields.io/badge/Claude_Code-000000?style=for-the-badge)
+![LLM Integrations](https://img.shields.io/badge/LLM_Integrations-6E59A5?style=for-the-badge)
+![ComfyUI](https://img.shields.io/badge/ComfyUI-FF6F00?style=for-the-badge)
+![LoRA Training](https://img.shields.io/badge/LoRA_Training-8A2BE2?style=for-the-badge)
+![AI Assisted Development](https://img.shields.io/badge/AI_Assisted_Development-111827?style=for-the-badge)
 
 ---
 
